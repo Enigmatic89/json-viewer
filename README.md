@@ -1,5 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tulios/json-viewer)
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tulios/json-viewer)
+
 ![JSONViewer Logo](https://raw.githubusercontent.com/tulios/json-viewer/master/logo.png)
 
 # JSON Viewer
